@@ -42,7 +42,7 @@ export default function NewsList({ news }: Props) {
                 className={styles.image}
                 src="/no-image.png"
                 alt="No Image"
-                width={120}
+                width={1200}
                 height={630}
               />
             )}
